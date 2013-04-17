@@ -1,4 +1,4 @@
-resume
+Résumé
 ======
 
 This is my resume written in Java using Processing. 
